@@ -1,2 +1,1 @@
-Set WshShell = WScript.CreateObject("WScript.Shell")
-WshShell.SendKeys "c"
+WScript.Sleep 1000
