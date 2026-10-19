@@ -1,1 +1,1 @@
-WScript.Sleep 1000
+msgbox "caca"
