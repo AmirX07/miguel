@@ -1,1 +1,1 @@
-wscript.sleep 5000
+msgbox "67"
