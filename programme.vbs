@@ -1,1 +1,1 @@
-msgbox "miguel"
+wscript.sleep 1000
