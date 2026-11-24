@@ -1,1 +1,1 @@
-wscript.sleep 1000
+i said join 
